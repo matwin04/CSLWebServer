@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CSLWebServer
+build_property.ProjectDir = /home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

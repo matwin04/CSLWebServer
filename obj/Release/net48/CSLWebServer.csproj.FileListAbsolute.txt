@@ -1,0 +1,17 @@
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.AssemblyInfoInputs.cache
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.AssemblyInfo.cs
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.csproj.CoreCompileInputs.cache
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.csproj.AssemblyReference.cache
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/CSLWebServer.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/CSLWebServer.pdb
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/Assembly-CSharp.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/ICities.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/UnityEngine.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/ColossalManaged.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/PopsApiWrapper.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/Assembly-CSharp-firstpass.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/bin/net48/ICSharpCode.SharpZipLib.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.csproj.CopyComplete
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.dll
+/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/obj/Release/net48/CSLWebServer.pdb

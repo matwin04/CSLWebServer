@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <LangVersion>8.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <OutputPath>bin/</OutputPath>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>/mnt/drives/NV1/SteamLibrary/steamapps/common/Cities_Skylines/Cities_Data/Managed/Assembly-CSharp.dll</HintPath>
+        </Reference>
+        <Reference Include="UnityEngine">
+            <HintPath>/mnt/drives/NV1/SteamLibrary/steamapps/common/Cities_Skylines/Cities_Data/Managed/UnityEngine.dll</HintPath>
+        </Reference>
+        <Reference Include="ICities">
+            <HintPath>/mnt/drives/NV1/SteamLibrary/steamapps/common/Cities_Skylines/Cities_Data/Managed/ICities.dll</HintPath>
+        </Reference>
+        <Reference Include="ColossalManaged">
+            <HintPath>/mnt/drives/NV1/SteamLibrary/steamapps/common/Cities_Skylines/Cities_Data/Managed/ColossalManaged.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>

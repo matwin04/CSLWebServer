@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReG+DSGJRw5l/Qj4Pt6Dw4/igWWeDurnGnb88/ajipZc64+f3O85L1hVlCjkoiWUsNnLk2XCLaoktB6KT4RY/A==",
+  "success": true,
+  "projectFilePath": "/home/mwiner/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/CSLWebServer/CSLWebServer.csproj",
+  "expectedPackageFiles": [
+    "/home/mwiner/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/mwiner/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
